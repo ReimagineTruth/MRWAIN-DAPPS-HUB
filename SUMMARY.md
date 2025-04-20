@@ -1,6 +1,7 @@
 # Table of contents
 
 * [MRWAIN-DAPPS-HUB](README.md)
+  * [🪙 MRWN Token on Pi Network: A Comprehensive Guide (Coming Soon)](readme/mrwn-token-on-pi-network-a-comprehensive-guide-coming-soon.md)
 * [CODE OF CONDUCT](CODE_OF_CONDUCT.md)
 * [DApps](DApps.md)
 * [Frequently Asked Questions (FAQ)](FAQ.md)
